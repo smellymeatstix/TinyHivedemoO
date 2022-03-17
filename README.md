@@ -1,5 +1,8 @@
 # collectionbuilder-gh
 
+this is my collection website demo for March 17, 2022. 
+
+
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
