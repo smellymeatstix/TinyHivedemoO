@@ -7,6 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/nav-menu.html sections="Yōkai Senjafuda: Stories about Ghosts and Monsters;Senjafuda collections at the University of Oregon" %}
 
 ## Yōkai Senjafuda: Stories about Ghosts and Monsters
 [Yōkai Senjafuda Digital Exhibit](https://glam.uoregon.edu/yokaisenjafuda/page/welcome)
