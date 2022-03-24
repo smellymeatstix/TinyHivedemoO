@@ -5,7 +5,7 @@
         <div class="col-md-7  px-4 mt-2">
 
             <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
-            <p class="text-white"><small>{{ site.description }}</small></p>
+            <p class="text-white"><small>I built this </small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
